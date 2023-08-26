@@ -1,1 +1,2 @@
-# bidding-website
+# Bidding-Website
+Bidding Website
